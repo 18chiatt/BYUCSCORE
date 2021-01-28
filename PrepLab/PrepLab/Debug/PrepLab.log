@@ -1,0 +1,9 @@
+﻿  ShoppingCart.cpp
+c:\users\administrator\source\repos\preplab\preplab\shoppingcart.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\preplab\preplab\shoppingcart.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\preplab\preplab\shoppingcart.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\preplab\preplab\shoppingcart.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\preplab\preplab\shoppingcart.cpp(159): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  PrepLab.vcxproj -> C:\Users\Administrator\source\repos\PrepLab\Debug\PrepLab.exe

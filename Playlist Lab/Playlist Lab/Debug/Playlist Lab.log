@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\administrator\source\repos\playlist lab\playlist lab\main.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\playlist lab\playlist lab\main.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\playlist lab\playlist lab\main.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\playlist lab\playlist lab\main.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\playlist lab\playlist lab\main.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\playlist lab\playlist lab\main.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\playlist lab\playlist lab\main.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\playlist lab\playlist lab\main.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\playlist lab\playlist lab\main.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\playlist lab\playlist lab\main.cpp(192): warning C4018: '<': signed/unsigned mismatch
+  Playlist Lab.vcxproj -> C:\Users\Administrator\source\repos\Playlist Lab\Debug\Playlist Lab.exe

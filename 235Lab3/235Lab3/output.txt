@@ -1,0 +1,11 @@
+PrintList epicBoi222
+First epicBoi222
+Reverse
+Insert The quick brown fox jumped over the lazy dog.
+Remove quick
+PrintList epicBoi222 dog. lazy the over jumped fox brown The
+Reverse
+First epicBoi222
+Delete OK
+Reverse
+PrintList dog. lazy the over jumped fox brown The

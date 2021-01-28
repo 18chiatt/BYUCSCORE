@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\administrator\source\repos\project6\project6\source.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\project6\project6\source.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\project6\project6\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\project6\project6\source.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\project6\project6\source.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\project6\project6\source.cpp(228): warning C4018: '<': signed/unsigned mismatch
+  Project6.vcxproj -> C:\Users\Administrator\source\repos\Project6\Debug\Project6.exe

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\administrator\source\repos\lab7\lab7\source.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\lab7\lab7\source.cpp(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\lab7\lab7\source.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\lab7\lab7\source.cpp(282): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\lab7\lab7\source.cpp(351): warning C4018: '<': signed/unsigned mismatch
+  Lab7.vcxproj -> C:\Users\Administrator\source\repos\Lab7\Debug\Lab7.exe

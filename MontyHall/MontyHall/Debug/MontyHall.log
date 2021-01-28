@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Administrator\source\repos\MontyHall\MontyHall\Source.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Administrator\source\repos\MontyHall\MontyHall\Source.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
+  MontyHall.vcxproj -> C:\Users\Administrator\source\repos\MontyHall\Debug\MontyHall.exe

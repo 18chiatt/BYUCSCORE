@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\administrator\source\repos\vector prep lab\vector prep lab\source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\vector prep lab\vector prep lab\source.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\vector prep lab\vector prep lab\source.cpp(98): error C2678: binary '>': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  c:\users\administrator\source\repos\vector prep lab\vector prep lab\source.cpp(98): note: could be 'built-in C++ operator>(bool, int)'
+  c:\users\administrator\source\repos\vector prep lab\vector prep lab\source.cpp(98): note: while trying to match the argument list '(std::istream, int)'
+c:\users\administrator\source\repos\vector prep lab\vector prep lab\source.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\vector prep lab\vector prep lab\source.cpp(126): warning C4018: '<': signed/unsigned mismatch

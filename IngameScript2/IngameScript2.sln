@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngameScript2", "IngameScript2\IngameScript2.csproj", "{37BD9AEF-0A1C-49E9-83E8-EFB6F1E2E7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37BD9AEF-0A1C-49E9-83E8-EFB6F1E2E7AE}.Debug|x64.ActiveCfg = Debug|x64
+		{37BD9AEF-0A1C-49E9-83E8-EFB6F1E2E7AE}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B66FAC-71AA-4F15-9CCE-C01422583777}
+	EndGlobalSection
+EndGlobal

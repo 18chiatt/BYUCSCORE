@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\administrator\source\repos\sandbox\sandbox\source.cpp(47): warning C4018: '<=': signed/unsigned mismatch
+c:\users\administrator\source\repos\sandbox\sandbox\source.cpp(98): warning C4018: '<': signed/unsigned mismatch
+  Sandbox.vcxproj -> C:\Users\Administrator\source\repos\Sandbox\Debug\Sandbox.exe

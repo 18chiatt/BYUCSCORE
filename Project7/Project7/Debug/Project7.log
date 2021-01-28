@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\administrator\source\repos\project7\project7\source.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\source\repos\project7\project7\source.cpp(274): warning C4018: '<': signed/unsigned mismatch
+  Project7.vcxproj -> C:\Users\Administrator\source\repos\Project7\Debug\Project7.exe

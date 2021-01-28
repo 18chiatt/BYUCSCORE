@@ -1,0 +1,14 @@
+﻿  BakedGood.cpp
+  Bread.cpp
+  Cake.cpp
+  CupCake.cpp
+  LayerCake.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\tgmath.h(27): warning UCRT4000: The Universal CRT implementation of tgmath.h does not conform to the C99 standard. Functionality equivalent to the type-generic functions provided by tgmath.h is available in <ctgmath> when compiling as C++. If compiling in C++17 mode or higher (/std:c++17), this header will automatically include <ctgmath> instead. You can define _CRT_SILENCE_NONCONFORMING_TGMATH_H to acknowledge that you have received this warning.
+C:\Users\Administrator\source\repos\Final Lab\Final Lab\main.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\Final Lab\Final Lab\main.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\Final Lab\Final Lab\main.cpp(139,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\Final Lab\Final Lab\main.cpp(179,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Administrator\source\repos\Final Lab\Final Lab\main.cpp(215,20): warning C4018: '<': signed/unsigned mismatch
+  Final Lab.vcxproj -> C:\Users\Administrator\source\repos\Final Lab\Debug\Final Lab.exe
